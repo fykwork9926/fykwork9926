@@ -28,7 +28,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization)
+- [Market_Offer](https://github.com/fykwork9926/Ofertas_Mercado.git)
 - [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
 
 <!-- GIF -->
