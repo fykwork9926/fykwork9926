@@ -29,7 +29,7 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [Market_Offer](https://github.com/fykwork9926/Ofertas_Mercado.git)
-- [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
+- [Ecommerce sales](https://github.com/fykwork9926/ecommerce-sales-forecast.git)
 
 <!-- GIF -->
 <p align="left">
