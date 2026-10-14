@@ -30,6 +30,8 @@
 ## Portfolio:
 - [Market_Offer](https://github.com/fykwork9926/Ofertas_Mercado.git)
 - [Ecommerce sales](https://github.com/fykwork9926/ecommerce-sales-forecast.git)
+- [Logsentinel](https://github.com/fykwork9926/logsentinel.git)
+
 
 <!-- GIF -->
 <p align="left">
